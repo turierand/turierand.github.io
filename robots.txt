@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turierand.github.io/sitemap.html.gz
+Sitemap: https://turierand.github.io/app/sitemap.html.gz
+Sitemap: https://turierand.github.io/assets/sitemap.html.gz
+Sitemap: https://turierand.github.io/css/sitemap.html.gz
+Sitemap: https://turierand.github.io/includes/sitemap.html.gz
+Sitemap: https://turierand.github.io/item/sitemap.html.gz
+Sitemap: https://turierand.github.io/src/sitemap.html.gz
